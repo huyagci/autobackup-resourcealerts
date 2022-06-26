@@ -4,7 +4,7 @@
 
 **_Built with;_**
 
-[![Linux][#linux]][@linux] [![Bash][#bash]][@bash] [![Git][#git]][@git] [![VirtualBox][#virtualbox]][@virtualbox] [![Vagrant][#vagrant]][@vagrant]
+[![Linux][#linux]][@linux] [![Bash][#bash]][@bash] [![VirtualBox][#virtualbox]][@virtualbox] [![Vagrant][#vagrant]][@vagrant]
 
 #### :one: **Assignment**
 
@@ -80,7 +80,6 @@ This repository undertakes two projects developed under the [Patika.dev][@patika
 
 > - Linux :heart:
 > - Bash Scripting
-> - Git SCM
 > - Oracle VM VirtualBox
 > - Vagrant by HashiCorp
 
@@ -104,7 +103,6 @@ _You may check out the submitted version of this project [here][@og-repo]._
 
 [#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [#bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white
-[#git]: https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white
 [#virtualbox]: https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white
 [#vagrant]: https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white
 
@@ -114,7 +112,6 @@ _You may check out the submitted version of this project [here][@og-repo]._
 [@protein]: https://protein.tech/
 [@linux]: https://www.linux.org/
 [@bash]: https://www.gnu.org/software/bash/
-[@git]: https://git-scm.com/
 [@virtualbox]: https://www.virtualbox.org/
 [@vagrant]: https://www.vagrantup.com/
 [@vagrant-download]: https://www.vagrantup.com/downloads/
