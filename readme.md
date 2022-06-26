@@ -14,7 +14,7 @@
 
 > Create a script that checks the disk usage of partitions mounted on the root and build a warning system that sends a warning email to the specified user if the threshold is exceeded.
 
-### **Table of Contents**
+### :open_book: **Table of Contents**
 
 1. [Overview](#notebook_with_decorative_cover-overview)
 2. [Features](#sparkles-features)
@@ -26,7 +26,7 @@
    - [Manual](#manual)
 4. [Technologies](#computer-technologies)
 5. [Directories](#open_file_folder-directories)
-6. [Submitted Assignment](#floppydisk-submitted-assignment)
+6. [Submitted Assignment](#floppy_disk-submitted-assignment)
 
 ### :notebook_with_decorative_cover: **Overview**
 
