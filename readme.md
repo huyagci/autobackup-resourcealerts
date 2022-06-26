@@ -26,10 +26,15 @@
    - [Manual](#manual)
 4. [Technologies](#computer-technologies)
 5. [Directories](#open_file_folder-directories)
+6. [Submitted Version](#floppydisk-submitted-assignment)
 
 ### :notebook_with_decorative_cover: **Overview**
 
-This repository undertakes two projects developed under the [Patika.dev][@patika] & [Protein][@protein] DevOps Engineer Bootcamp as an assignment. It contains three scripts whose usage is mentioned below. `bootstrap.sh` is an initializer script that sets up the machine as instructed. `backup_home_dirs.sh` and `disk_usage_alert.sh` are the assignment scripts that are coded by the terms of the project.
+This repository undertakes two projects developed under the [Patika.dev][@patika] & [Protein][@protein] DevOps Engineer Bootcamp as an assignment. `SysWard` is a collection of three scripts whose usage is mentioned below. `bootstrap.sh` is an initializer script that sets up the machine as instructed. `backup_home_dirs.sh` and `disk_usage_alert.sh` are the assignment scripts that are coded by the terms of the project.
+
+&nbsp;
+
+<p align="center"><img src="./res/img/sysward.png" alt="SysWard Branding Image"></a></p>
 
 ### :sparkles: **Features**
 
@@ -88,6 +93,10 @@ MD5 Checksums            : /mnt/backups
 Last Run Log             : /tmp/scripts
 ```
 
+### :floppy_disk: **Submitted Assignment**
+
+_You may check out the submitted version of this project [here][@og-repo]._
+
 <!-- Badge Index -->
 
 [#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
@@ -106,3 +115,7 @@ Last Run Log             : /tmp/scripts
 [@virtualbox]: https://www.virtualbox.org/
 [@vagrant]: https://www.vagrantup.com/
 [@vagrant-download]: https://www.vagrantup.com/downloads/
+
+<!-- Original Assignment -->
+
+[@og-repo]: https://github.com/Protein-DevOps-Engineer-Bootcamp/1-hafta-odev-1-shell-scripting-huyagci
