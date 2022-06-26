@@ -26,7 +26,7 @@
    - [Manual](#manual)
 4. [Technologies](#computer-technologies)
 5. [Directories](#open_file_folder-directories)
-6. [Submitted Version](#floppydisk-submitted-assignment)
+6. [Submitted Assignment](#floppydisk-submitted-assignment)
 
 ### :notebook_with_decorative_cover: **Overview**
 
@@ -96,6 +96,9 @@ Last Run Log             : /tmp/scripts
 ### :floppy_disk: **Submitted Assignment**
 
 _You may check out the submitted version of this project [here][@og-repo]._
+
+<!-- View Counter -->
+<p align="right"><img src="https://komarev.com/ghpvc/?username=qqpsfhocfu2otgvxbfdh&style=flat&label=Views&color=blue" alt="View Counter"></a></p>
 
 <!-- Badge Index -->
 
