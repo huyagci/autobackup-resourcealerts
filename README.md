@@ -16,19 +16,19 @@
 
 ### :open_book: **Table of Contents**
 
-1. [Overview](#notebook_with_decorative_cover-overview)
-2. [Features](#sparkles-features)
+1. [Overview](#notebook_with_decorative_cover-overview-)
+2. [Features](#sparkles-features-)
    - [Bootstrap Script](#bootstrap-script)
    - [Home Directory Backup Script](#home-directory-backup)
    - [Disk Usage Alert Script](#disk-usage-alerts)
-3. [Usage](#gear-usage)
+3. [Usage](#gear-usage-)
    - [Automated](#automated)
    - [Manual](#manual)
-4. [Technologies](#computer-technologies)
-5. [Directories](#open_file_folder-directories)
-6. [Submitted Assignment](#floppy_disk-submitted-assignment)
+4. [Technologies](#computer-technologies-)
+5. [Directories](#open_file_folder-directories-)
+6. [Submitted Assignment](#floppy_disk-submitted-assignment-)
 
-### :notebook_with_decorative_cover: **Overview**
+### :notebook_with_decorative_cover: **Overview** [🔝](#open_book-table-of-contents)
 
 This repository undertakes two projects developed under the [Patika.dev][@patika] & [Protein][@protein] DevOps Engineer Bootcamp as an assignment. `SysWard` is a collection of three scripts whose usage is mentioned below. `bootstrap.sh` is an initializer script that sets up the machine as instructed. `backup_home_dirs.sh` and `disk_usage_alert.sh` are the assignment scripts that are coded by the terms of the project.
 
@@ -36,7 +36,7 @@ This repository undertakes two projects developed under the [Patika.dev][@patika
 
 <p align="center"><img src="./res/img/sysward.png" alt="SysWard Branding Image"></a></p>
 
-### :sparkles: **Features**
+### :sparkles: **Features** [🔝](#open_book-table-of-contents)
 
 #### _Bootstrap Script_
 
@@ -60,7 +60,7 @@ This repository undertakes two projects developed under the [Patika.dev][@patika
 > - If the used space exceeds your defined threshold, the script will send you an email. (Default threshold is set to: 90%)
 > - The email will contain the **partition name**, **machine name**, and **left space** information, as well as the **timestamp** of the execution.
 
-### :gear: **Usage**
+### :gear: **Usage** [🔝](#open_book-table-of-contents)
 
 #### _Automated_
 
@@ -76,14 +76,14 @@ This repository undertakes two projects developed under the [Patika.dev][@patika
 3. Execute `bootstrap.sh` first to configure the machine settings.
 4. Run the scripts manually from the directories that are stated [**below**](#open_file_folder-directories).
 
-### :computer: **Technologies**
+### :computer: **Technologies** [🔝](#open_book-table-of-contents)
 
 > - Linux :heart:
 > - Bash Scripting
 > - Oracle VM VirtualBox
 > - Vagrant by HashiCorp
 
-### :open_file_folder: **Directories**
+### :open_file_folder: **Directories** [🔝](#open_book-table-of-contents)
 
 ```
 Scripts & Configurations : /opt/scripts
@@ -92,7 +92,7 @@ MD5 Checksums            : /mnt/backups
 Last Run Log             : /tmp/scripts
 ```
 
-### :floppy_disk: **Submitted Assignment**
+### :floppy_disk: **Submitted Assignment** [🔝](#open_book-table-of-contents)
 
 _You may check out the submitted version of this project [here][@og-repo]._
 
